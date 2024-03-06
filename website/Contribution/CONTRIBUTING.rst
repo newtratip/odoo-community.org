@@ -6,7 +6,7 @@
 .. |DATE| replace:: 2018/08/24
 
 .. contents:: Table of contents
-    :depth: 1
+    :depth: 2
 
 .. sectnum::
 
