@@ -5,7 +5,10 @@
 .. |TITLE| replace:: OCA Guidelines
 .. |DATE| replace:: 2018/08/24
 
+.. contents:: Table of contents
+    :depth: 4
 
+.. sectnum::
 
 
 
